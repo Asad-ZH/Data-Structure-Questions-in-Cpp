@@ -15,11 +15,11 @@ double Area(double s, double a, double b, double c)
 	//returning the area
 	return sqrt(s * (s - a) * (s - b) * (s - c));
 }
-// just adding some space 
+// just adding soxme space 
 
 int main()
 {
-	
+
 	double a, b, c, s; //variable declaration
 
 	//taking inputs
